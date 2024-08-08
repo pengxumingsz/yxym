@@ -14,11 +14,7 @@ let cacheTTL = 24 ;//小时，缓存时长
 
 //节点链接 + 订阅链接
 let MainData = `
-https://my-telegram-is-herocore.onecf.eu.org/sub?host=jd.szpengxuming.us.kg&uuid=8f40e165-c9db-478d-b761-f3c8509a0bee&path=/?ed=2048
-https://my-telegram-is-herocore.onecf.eu.orgsub?host=t-NETplUS.paGES.dev&uuid=89b3cbba-e6ac-485a-9481-976a0415eab9&path=/3az8RcYcqoxUULfw/NDcuMjQ1Ljg2LjIzMA==?ed=2560
-https://my-telegram-is-herocore.onecf.eu.org/sub?host=jd.szpengxuming.us.kg&uuid=8f40e165-c9db-478d-b761-f3c8509a0bee&path=/?ed=2048
-https://my-telegram-is-herocore.onecf.eu.org/sub?host=digikala.com.arvancloud.ir.farsroid.com.soft98.ir.par30dl.com.flstudio.com.xn--0-ko6ab82c106mda34ulw7efa.blog.boxiaa.shop.&uuid=9f50e1d-02cd-4b62-f3ec-ea5ae3e456ff&path=/?ed=2560
-https://my-telegram-is-herocore.onecf.eu.org/sub?host=sARA-PAnel.pagES.DeV&uuid=6324e2ab-9801-4768-8d6c-cb9e657807eb&path=/IGsnIddHNl1Ziw5L?ed=2560
+https://jd.szpengxuming.us.kg/8f40e165-c9db-478d-b761-f3c8509a0bee
 `
 
 let urls = [];
