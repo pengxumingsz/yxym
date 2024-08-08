@@ -1,7 +1,7 @@
 
 // 部署完成后在网址后面加上这个，获取自建节点和机场聚合节点，/?token=auto或/auto或
 
-let mytoken = 'auto'; //可以随便取，或者uuid生成，https://1024tools.com/uuid
+let mytoken = '28153240'; //可以随便取，或者uuid生成，https://1024tools.com/uuid
 let BotToken =''; //可以为空，或者@BotFather中输入/start，/newbot，并关注机器人
 let ChatID =''; //可以为空，或者@userinfobot中获取，/start
 let TG = 0; //小白勿动， 开发者专用，1 为推送所有的访问信息，0 为不推送订阅转换后端的访问信息与异常访问
@@ -14,8 +14,22 @@ let cacheTTL = 24 ;//小时，缓存时长
 
 //节点链接 + 订阅链接
 let MainData = `
-vless://b7a392e2-4ef0-4496-90bc-1c37bb234904@cf.090227.xyz:443?encryption=none&security=tls&sni=edgetunnel-2z2.pages.dev&fp=random&type=ws&host=edgetunnel-2z2.pages.dev&path=%2F%3Fed%3D2048#%E5%8A%A0%E5%85%A5%E6%88%91%E7%9A%84%E9%A2%91%E9%81%93t.me%2FCMLiussss%E8%A7%A3%E9%94%81%E6%9B%B4%E5%A4%9A%E4%BC%98%E9%80%89%E8%8A%82%E7%82%B9
-https://sub.xf.free.hr/auto
+https://www.okcupid.com/sub?host=jd.szpengxuming.us.kg&uuid=8f40e165-c9db-478d-b761-f3c8509a0bee&path=/?ed=2048
+https://www.udacity.com/sub?host=jd.szpengxuming.us.kg&uuid=8f40e165-c9db-478d-b761-f3c8509a0bee&path=/?ed=2048
+https://www.sean-now.com/sub?host=jd.szpengxuming.us.kg&uuid=8f40e165-c9db-478d-b761-f3c8509a0bee&path=/?ed=2048
+https://www.d-555.com/sub?host=jd.szpengxuming.us.kg&uuid=8f40e165-c9db-478d-b761-f3c8509a0bee&path=/?ed=2048
+https://www.okcupid.com/sub?host=t-NETplUS.paGES.dev&uuid=89b3cbba-e6ac-485a-9481-976a0415eab9&path=/3az8RcYcqoxUULfw/NDcuMjQ1Ljg2LjIzMA==?ed=2560
+https://www.udacity.com/sub?host=t-NETplUS.paGES.dev&uuid=89b3cbba-e6ac-485a-9481-976a0415eab9&path=/3az8RcYcqoxUULfw/NDcuMjQ1Ljg2LjIzMA==?ed=2560
+https://www.sean-now.com/sub?host=t-NETplUS.paGES.dev&uuid=89b3cbba-e6ac-485a-9481-976a0415eab9&path=/3az8RcYcqoxUULfw/NDcuMjQ1Ljg2LjIzMA==?ed=2560
+https://www.d-555.com/sub?host=t-NETplUS.paGES.dev&uuid=89b3cbba-e6ac-485a-9481-976a0415eab9&path=/3az8RcYcqoxUULfw/NDcuMjQ1Ljg2LjIzMA==?ed=2560
+https://www.okcupid.com/sub?host=digikala.com.arvancloud.ir.farsroid.com.soft98.ir.par30dl.com.flstudio.com.xn--0-ko6ab82c106mda34ulw7efa.blog.boxiaa.shop.&uuid=9f50e1d-02cd-4b62-f3ec-ea5ae3e456ff&path=/?ed=2560
+https://www.udacity.com/sub?host=digikala.com.arvancloud.ir.farsroid.com.soft98.ir.par30dl.com.flstudio.com.xn--0-ko6ab82c106mda34ulw7efa.blog.boxiaa.shop.&uuid=9f50e1d-02cd-4b62-f3ec-ea5ae3e456ff&path=/?ed=2560
+https://www.sean-now.com/sub?host=digikala.com.arvancloud.ir.farsroid.com.soft98.ir.par30dl.com.flstudio.com.xn--0-ko6ab82c106mda34ulw7efa.blog.boxiaa.shop.&uuid=9f50e1d-02cd-4b62-f3ec-ea5ae3e456ff&path=/?ed=2560
+https://www.d-555.com/sub?host=digikala.com.arvancloud.ir.farsroid.com.soft98.ir.par30dl.com.flstudio.com.xn--0-ko6ab82c106mda34ulw7efa.blog.boxiaa.shop.&uuid=9f50e1d-02cd-4b62-f3ec-ea5ae3e456ff&path=/?ed=2560
+https://www.okcupid.com/sub?host=sARA-PAnel.pagES.DeV&uuid=6324e2ab-9801-4768-8d6c-cb9e657807eb&path=/IGsnIddHNl1Ziw5L?ed=2560
+https://www.udacity.com/sub?host=sARA-PAnel.pagES.DeV&uuid=6324e2ab-9801-4768-8d6c-cb9e657807eb&path=/IGsnIddHNl1Ziw5L?ed=2560
+https://www.sean-now.com/sub?host=sARA-PAnel.pagES.DeV&uuid=6324e2ab-9801-4768-8d6c-cb9e657807eb&path=/IGsnIddHNl1Ziw5L?ed=2560
+https://www.d-555.com/sub?host=sARA-PAnel.pagES.DeV&uuid=6324e2ab-9801-4768-8d6c-cb9e657807eb&path=/IGsnIddHNl1Ziw5L?ed=2560
 `
 
 let urls = [];
