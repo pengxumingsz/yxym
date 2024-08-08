@@ -14,7 +14,7 @@ let cacheTTL = 24 ;//小时，缓存时长
 
 //节点链接 + 订阅链接
 let MainData = `
-https://jd.szpengxuming.us.kg/8f40e165-c9db-478d-b761-f3c8509a0bee
+https://clash2sfa.xmdhs.com/sub?sub=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fchengaopan%2FAutoMergePublicNodes%40master%2Flist.yml
 `
 
 let urls = [];
