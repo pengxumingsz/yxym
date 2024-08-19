@@ -14,6 +14,7 @@ let cacheTTL = 24 ;//小时，缓存时长
 
 //节点链接 + 订阅链接
 let MainData = `
+https://pagesvless2sub.szpengxuming.us.kg/sub?host=dci-sanjose.wymv.top&uuid=b405492e-26c8-4d98-84e2-93cd8c312677&path=/
 https://pagesvless2sub.szpengxuming.us.kg/sub?host=storeships.toptechnonews.com&uuid=cede337b-9ea5-40e5-a8b1-690bf49ff41d&path=/nimws
 `
 
