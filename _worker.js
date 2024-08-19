@@ -14,7 +14,7 @@ let cacheTTL = 24 ;//小时，缓存时长
 
 //节点链接 + 订阅链接
 let MainData = `
-https://sub.kaiche.tk/sub?host=dci-sanjose.wymv.top&uuid=b405492e-26c8-4d98-84e2-93cd8c312677&path=/
+https://pagesvless2sub.szpengxuming.us.kgsub?host=dci-sanjose.wymv.top&uuid=b405492e-26c8-4d98-84e2-93cd8c312677&path=/
 `
 
 let urls = [];
