@@ -15,7 +15,6 @@ let cacheTTL = 24 ;//小时，缓存时长
 //节点链接 + 订阅链接
 let MainData = `
 https://pagesvless2sub.szpengxuming.us.kg/sub?host=storeships.toptechnonews.com&uuid=cede337b-9ea5-40e5-a8b1-690bf49ff41d&path=/nimws
-http://103.196.20.127/api/v1/client/subscribe?token=e6c4a8fc9abeaae21f9adfc594eb9a37&types=vless
 `
 
 let urls = [];
